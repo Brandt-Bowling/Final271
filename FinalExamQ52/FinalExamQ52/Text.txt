@@ -1,0 +1,8 @@
+Desert	Chocolate Ice cream
+Entree	Chicken Pasta
+Desert	Sundae Ice Cream
+Soup	Chicken Noodle
+Soup	Vegetable Soup
+Sandwich	Beef Burger
+Sandwich	Fish Filet
+Entree	Beef Steak
