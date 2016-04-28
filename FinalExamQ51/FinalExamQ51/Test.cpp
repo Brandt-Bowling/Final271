@@ -30,7 +30,10 @@ void main()
 			else if (phoneNum[9] != '-')
 				throw Syntax("missing dash between exchange and line");
 			else
+			{
 				good = true;
+				cout << phoneNum << "\t nothing wrong with this number" << endl;
+			}
 		}
 		catch (Length le)
 		{
